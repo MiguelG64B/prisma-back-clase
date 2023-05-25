@@ -1,1 +1,1 @@
-sudo systemctl restart miguel.service
+sudo systemctl restart miguel2.service
